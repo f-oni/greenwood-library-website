@@ -1,6 +1,6 @@
 # greenwood-library-website
 
-Repository created
+## GitHub Repository
 
 The greenwood-library-website repository was created with a readme file on GitHub
 
@@ -8,7 +8,7 @@ The greenwood-library-website repository was created with a readme file on GitHu
 
 ## Cloning
 
-The reopository was cloned using the command git clone
+The reopository was cloned using the command **git clone**.
 
 ![image](https://github.com/user-attachments/assets/4630fc61-ab40-4ed5-8bd2-f1560034d663)
 
@@ -20,8 +20,12 @@ The following files were created with Visual Studio Code
 - events.html
 - contact_us.html
 
-The main branch updated
-changes were staged and commited to the main branch. The following commands were used:
+![image](https://github.com/user-attachments/assets/0d69e67b-f35d-45ef-b635-b07f9237218a)
+
+
+## The Main Branch
+
+Changes to the main branch were staged and commited. The following commands were used:
 - git status
 - git add
 - git commit
@@ -29,26 +33,25 @@ changes were staged and commited to the main branch. The following commands were
 ![image](https://github.com/user-attachments/assets/63291188-112d-40ff-96a6-f7c82c6cc0e0)
 
 The commited changes to the main branch was pushed to the remote repository on GitHub
-using git push origin
+using **git push origin**.
 
 ![image](https://github.com/user-attachments/assets/62a5024e-becd-4a6a-92b9-5d69b74ffc9c)
 
-## The Main Branch
 
 ![image](https://github.com/user-attachments/assets/695a9c7c-a99d-4fb4-8457-51df62cb26a9)
 
+
 ## Morgan's Branch
 
-Morgan's Branch created
-A branch named add-book-reviews was created for Morgan usibg git checkout -b to switch to the branch
+A branch named add-book-reviews was created for Morgan using **git checkout -b add-book-review** to switch to the branch
 
 ![image](https://github.com/user-attachments/assets/bebcbf44-c6d8-41a8-b63e-d49a11e5db32)
 
-A new file was added to the directory
+A new file named book_reviews.html was added to the directory
 
 ![image](https://github.com/user-attachments/assets/f4be00de-5428-4909-92f6-88854e1473a9)
 
-Morgan's branch updated. The changes were staged and commited to the branch with
+Morgan's branch updated. The changes to the add-book-reviews branch were staged and commited to the branch with
 - git status
 - git add
 - git commit
@@ -76,13 +79,14 @@ Morgan's branch, add-book-reviews merged with the main branch
 
 ![image](https://github.com/user-attachments/assets/cadf1ae4-759b-492a-b2cb-e707763fa314)
 
+
 ## Jamie's branch
 
-Before creating Jamie's branch, the head was switched to the main branch with the command branch checkout main. A branch was created with the name update-events using git checkout -b update-event.
+Before creating Jamie's branch, the head was switched to the main branch with the command **branch checkout main**. A new branch was created with the name update-events using **git checkout -b update-event**.
 
 ![image](https://github.com/user-attachments/assets/c070c228-d9a8-4919-a51c-1324458ece45)
 
-Jamie's branch, update-events was updated using the command git pull origin 
+Jamie's branch, update-events was updated using the command **git pull origin** 
 
 ![image](https://github.com/user-attachments/assets/1fef883f-b92d-401e-a5c0-ac45631ce723)
 
@@ -90,7 +94,7 @@ Changes made to the update-events branch was staged and commited to Jamie's bran
 
 ![image](https://github.com/user-attachments/assets/080fa192-b335-4d6b-a526-07511d2faae7)
 
-The changes were pushed from Jamie's branch to the remote repository on GitHub
+The changes were pushed from Jamie's branch to the remote repository on GitHub using the command **git push origin update-events**
 
 ![image](https://github.com/user-attachments/assets/28b733ed-d054-482c-9189-848d3b56420f)
 
@@ -110,13 +114,14 @@ The conflicts with the main branch were resolved
 
 ![image](https://github.com/user-attachments/assets/55f6c4c7-0036-42ab-adad-a3c0c85b0606)
 
-Pull request created from Jamie's branch without conflict
+Pull request was created from Jamie's branch without conflict
 
 ![image](https://github.com/user-attachments/assets/cfab190f-de20-4749-a161-64b9b568e3d4)
 
 Jamie's branch, update-events, was merged with the main branch
 
 ![image](https://github.com/user-attachments/assets/b808fcf9-6fff-488d-aaf2-026a6d3a514c)
+
 
 ## Conclusion
 The project simulated the process of project creation, branching and pull request.
