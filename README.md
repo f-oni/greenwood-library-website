@@ -8,7 +8,7 @@ The greenwood-library-website repository was created with a readme file on GitHu
 
 ## Cloning
 
-The reopository was cloned using the command **git clone**.
+The reopository was cloned using the command git clone.
 
 ![image](https://github.com/user-attachments/assets/4630fc61-ab40-4ed5-8bd2-f1560034d663)
 
@@ -33,7 +33,7 @@ Changes to the main branch were staged and commited. The following commands were
 ![image](https://github.com/user-attachments/assets/63291188-112d-40ff-96a6-f7c82c6cc0e0)
 
 The commited changes to the main branch was pushed to the remote repository on GitHub
-using **git push origin**.
+using git push origin.
 
 ![image](https://github.com/user-attachments/assets/62a5024e-becd-4a6a-92b9-5d69b74ffc9c)
 
@@ -43,7 +43,7 @@ using **git push origin**.
 
 ## Morgan's Branch
 
-A branch named add-book-reviews was created for Morgan using **git checkout -b add-book-review** to switch to the branch
+A branch named add-book-reviews was created for Morgan using git checkout -b add-book-review to switch to the branch
 
 ![image](https://github.com/user-attachments/assets/bebcbf44-c6d8-41a8-b63e-d49a11e5db32)
 
@@ -82,11 +82,11 @@ Morgan's branch, add-book-reviews merged with the main branch
 
 ## Jamie's branch
 
-Before creating Jamie's branch, the head was switched to the main branch with the command **branch checkout main**. A new branch was created with the name update-events using **git checkout -b update-event**.
+Before creating Jamie's branch, the head was switched to the main branch with the command branch checkout main. A new branch was created with the name update-events using git checkout -b update-event.
 
 ![image](https://github.com/user-attachments/assets/c070c228-d9a8-4919-a51c-1324458ece45)
 
-Jamie's branch, update-events was updated using the command **git pull origin** 
+Jamie's branch, update-events was updated using the command git pull origin 
 
 ![image](https://github.com/user-attachments/assets/1fef883f-b92d-401e-a5c0-ac45631ce723)
 
@@ -94,7 +94,7 @@ Changes made to the update-events branch was staged and commited to Jamie's bran
 
 ![image](https://github.com/user-attachments/assets/080fa192-b335-4d6b-a526-07511d2faae7)
 
-The changes were pushed from Jamie's branch to the remote repository on GitHub using the command **git push origin update-events**
+The changes were pushed from Jamie's branch to the remote repository on GitHub using the command git push origin update-events
 
 ![image](https://github.com/user-attachments/assets/28b733ed-d054-482c-9189-848d3b56420f)
 
